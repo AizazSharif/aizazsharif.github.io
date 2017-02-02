@@ -36,10 +36,8 @@ noita:
     right:
       - name: About
         url: /about/
-      - name: Guide
-        url: /guide/
       - name: Blog
         url: /blog/
       - name: Repository
-        url: aizazsharif/github.io
+        url: http://github.com/AizazSharif/aizazsharif/github.io
         class: small button
