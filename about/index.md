@@ -9,10 +9,16 @@ I am Aizaz Sharif, A Computer Science Graduate and Software Engineer. My main in
 
 ## Find me @
 
-Github: <a href="https://github.com/AizazSharif"></a>
-Twitter: <a href="https://twitter.com/AizazSharif420"></a>
-Facebook: <a href="https://www.facebook.com/AizazSharif"></a>
-LinkedIn: <a href="https://pk.linkedin.com/in/aizaz-sharif-6102108a"></a>
-Email: <a href="p126006@nu.edu.pk :: aizazsharif@gmail.com"></a>
+Github: [Here][3].
+Twitter: [Here][3]
+Facebook: [Here][3]
+LinkedIn: [Here][3].
+Email: p126006@nu.edu.pk :: aizazsharif@gmail.com"
 
+
+
+[1]: https://github.com/AizazSharif
+[2]: https://twitter.com/AizazSharif420
+[3]: https://www.facebook.com/AizazSharif
+[4]: https://pk.linkedin.com/in/aizaz-sharif-6102108a
 
