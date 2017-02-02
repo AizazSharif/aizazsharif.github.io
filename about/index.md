@@ -9,7 +9,7 @@ I am Aizaz Sharif, A Computer Science Graduate and Software Engineer. My main in
 
 ## Find me @
 
-Github: https://github.com/AizazSharif
+Github: <a href="https://github.com/AizazSharif">
 Twitter: https://twitter.com/AizazSharif420
 Facebook: https://www.facebook.com/AizazSharif
 LinkedIn: https://pk.linkedin.com/in/aizaz-sharif-6102108a
