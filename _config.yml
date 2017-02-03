@@ -23,11 +23,11 @@ compress_html:
     envs: [travis]
 # theme
 noita:
-  name: Aizaz
+  name: Aizaz Shariif
   description: Software Engineer
   author:
     name: Aizaz Sharif
-    url: aizazsharif/github.io
+    url: aizazsharif.github.io
   lang: en
   favicons:
     - /assets/2014/04/21/favicon-152.png
@@ -39,5 +39,5 @@ noita:
       - name: Blog
         url: /blog/
       - name: Repository
-        url: http://github.com/AizazSharif/aizazsharif/github.io
+        url: http://github.com/AizazSharif/aizazsharif.github.io
         class: small button
