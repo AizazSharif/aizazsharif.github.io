@@ -23,7 +23,7 @@ compress_html:
     envs: [travis]
 # theme
 noita:
-  name: Aizaz Shariif
+  name: Aizaz Sharif
   description: Software Engineer
   author:
     name: Aizaz Sharif
