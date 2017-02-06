@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-I am Aizaz Sharif, A Computer Science Graduate and Software Engineer. My main interest of field is Machine Learning and related areas like Deep Learning and Artificial Intelligence.
+I am Aizaz Sharif, A Computer Science Graduate, currently working as a Software Engineer and a Gamer. My main interest of field is Machine Learning and related areas like Deep Learning and Artificial Intelligence.
 
 
 
-## Find me @
+# Find me @
 
 * Github: [Here][3].
 * Twitter: [Here][3]
