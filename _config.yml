@@ -39,5 +39,5 @@ noita:
       - name: Blog
         url: /blog/
       - name: Repository
-        url: http://github.com/AizazSharif/aizazsharif.github.io
+        url: http://github.com/AizazSharif
         class: small button
