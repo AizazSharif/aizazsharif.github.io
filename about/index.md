@@ -9,10 +9,10 @@ I am Aizaz Sharif, A Computer Science Graduate, currently working as a Software 
 
 ### Find me @
 
-* Github: [Here][3].
-* Twitter: [Here][3]
+* Github: [Here][1].
+* Twitter: [Here][2]
 * Facebook: [Here][3]
-* LinkedIn: [Here][3].
+* LinkedIn: [Here][4].
 * Email: p126006@nu.edu.pk :: aizazsharif@gmail.com"
 
 
