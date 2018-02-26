@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Contrast
 
 ### Note
@@ -35,6 +34,3 @@ Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https
 - [Pixyll](https://github.com/johnotander/pixyll)
 
 Niklas Buschmann, 2014-18, MIT-License
-=======
-# aizaz.github.io
->>>>>>> d72e4bf1c05eb4aca7cd7e7cfeda0a7bf988ad0d
