@@ -1,9 +1,21 @@
 ---
-layout: page
-title: About
+title: "About"
 ---
 
+### About Me
+
 My name is Aizaz Sharif and I am a Computer Science Graduate, MS Computer Science Student, Software Engineer, Data Scientist, Researcher, and a Gamer. My main field of interest is Machine Learning & Artificial Intelligence. 
+
+### Work and Experience
+
+After a Computer Science Major I have been a part of working in several projects and tools in my short industry career. They involved: 
+
+ - Optical Character Recognition
+ - Deep Learning
+ - Banking Solutions and ETL
+ - Full Stack Web Development
+ 
+Currently I am pursuing Masters in Computer Science as a Researcher. 
 
 
 ### Find me @
@@ -12,6 +24,8 @@ My name is Aizaz Sharif and I am a Computer Science Graduate, MS Computer Scienc
 * Twitter: [Here][2].
 * Facebook: [Here][3].
 * LinkedIn: [Here][4].
+
+
 * Email: p177003@nu.edu.pk :: aizazsharif@gmail.com 
 
 
@@ -20,5 +34,4 @@ My name is Aizaz Sharif and I am a Computer Science Graduate, MS Computer Scienc
 [2]: https://twitter.com/AizazSharif420
 [3]: https://www.facebook.com/AizazSharif
 [4]: https://www.linkedin.com/in/aizazsharif/
-
 
