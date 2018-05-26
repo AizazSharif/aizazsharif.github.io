@@ -2,7 +2,7 @@
 title: "DeepTraffic-Competition"
 date:   2017-01-30
 description: "A Deep Reinforcement Learning problem of a Self-driving car was opened as a competiton."
-robots: Reinforcement Learning
+categories: Reinforcement Learning
 ---
 
 Registered people had to make changes in the given Network so that it can achieve max avergae speed in MPH. 
