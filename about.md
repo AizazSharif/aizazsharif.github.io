@@ -16,9 +16,8 @@ After a Computer Science Major I have been a part of working in several projects
  - Full Stack Web Development
  
 Currently I am pursuing Masters in Computer Science as a Researcher. My area of research sorrounds to:
- - Android Malware
- - Generative Adversarial Networks
- - Adhoc and Sensor Networks 
+ - Android Malware Analysis
+ - Sensor Networks for Low Cost Seismic Monitoring
 
 ### Find me @
 
