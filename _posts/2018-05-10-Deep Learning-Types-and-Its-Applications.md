@@ -23,8 +23,5 @@ There are various types of Deep Learning models and their usage varies on factor
 | Generate Faces Using Deep Learning         | GANs  | [Here](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
 
 
-@[youtube](https://www.youtube.com/watch?v=B37UbzPlSzw&vl=enQ)
-
-
 
 You can easily follow instruction of Python and Environmental Setup to run **Jupyter Notebook** in each project. By going through these applications one can grap the intuition of how each model works. 
