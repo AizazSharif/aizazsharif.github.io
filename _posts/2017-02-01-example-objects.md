@@ -1,39 +1,32 @@
 ---
-title:  "Example Objects"
-date:   2017-02-01 22:30:00
-categories: objects
+title:  "Deep Learning: Types and Its Applications"
+date:   2018-05-10 
+categories: Artiricial Intelligence
 ---
 
-### Code
+Deep Learning is one of the advanced fields of this decade that revolutionalized Artificial Intelligence as a whole. It is deep learning that created the possibilty of solving large scale problems in the present world. Deep Learning is a branch of tradiotional Machine Learning where we extend the structure and functionality of Neural Networks to solve complex problems and model vast data for accurate predictions.  
 
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
-
-
-### Quote
-
-> They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.
-> 
-> _Benjamin Franklin_
-
-### Table
-
-| First Header | Second Header | Third Header   | Fourth Header |
-|--------------|---------------|----------------|---------------|
-| First Entry  | Second Entry  | Third Entry    | Fourth Entry  |
-| Fifth Entry  | Sixth Entry   | Seventh Entry  | Eight Entry   |
-| Ninth Entry  | Tenth Entry   | Eleventh Entry | Twelfth Entry |
+Due to the emergence of this field, researchers all over the world started exploring it. Amazon created Alexa, Google made search and Language Translation better, Facebook improved their image tagging more accurate --- all are using Deep Learning behind the scene. Deep Learning is even integrated to other parts of A.I. as well such as Reinforcement Learning.
 
 ### Image
 
-![subtle swirly bokeh in the background](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Photography_by_Victor_Albert_Grigas_%281919-2017%29_000172050002_%2837159721864%29.jpg/1039px-Photography_by_Victor_Albert_Grigas_%281919-2017%29_000172050002_%2837159721864%29.jpg)
+![Basic Deep Learning Architecture](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+
+
+
+There are various types of Deep Learning models and their usage vary on factors like type of dataset, type of problem to solve. One might get frustrated while thinking about the starting point of Deep Learning. If you know basics of Machine Learning and Mathematics then you can simply get into the learning phase. I covered few projects as part of my Online Nanodegree and they are as follows:
+
+
+### Table
+
+| Problem | Deep Learning Model | Github Repo |
+|--------------|---------------|----------------|---------------|
+| Image Classification Using Deep Learning   | Convolutional Neural Network | [Here](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)  |
+| Generate TV Scripts Using Deep Learning LSTM
+
+  | Long-Short Term Memory  | [Here](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)  |
+| Language Translation Using-Deep Learning 
+
+  | Long-Short Term Memory | []] | [Here](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
+
 
