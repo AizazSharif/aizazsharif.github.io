@@ -8,7 +8,7 @@ My name is Aizaz Sharif and I am a Computer Science Graduate, MS Computer Scienc
 
 ### Work and Experience
 
-After a Computer Science Major I have been a part of working in several projects and tools in my short industry career. They involved: 
+After a Computer Science Major I have been a part of working in several projects in industry career. They involve: 
 
  - Optical Character Recognition
  - Deep Learning
