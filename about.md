@@ -15,8 +15,10 @@ After a Computer Science Major I have been a part of working in several projects
  - Banking Solutions and ETL
  - Full Stack Web Development
  
-Currently I am pursuing Masters in Computer Science as a Researcher. 
-
+Currently I am pursuing Masters in Computer Science as a Researcher. My area of research sorrounds to:
+ - Android Malware
+ - Generative Adversarial Networks
+ - Adhoc and Sensor Networks 
 
 ### Find me @
 
