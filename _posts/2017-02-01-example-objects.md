@@ -23,8 +23,7 @@ There are various types of Deep Learning models and their usage varies on factor
 | Generate Faces Using Deep Learning         | GANs  | [Here](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
 
 
-
-[![IMAGE ALT TEXT HERE]](https://www.youtube.com/watch?v=B37UbzPlSzw&vl=en)
+@[youtube](https://www.youtube.com/watch?v=B37UbzPlSzw&vl=enQ)
 
 
 
