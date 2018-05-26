@@ -10,23 +10,20 @@ Due to the emergence of this field, researchers all over the world started explo
 
 ### Image
 
-![Basic Deep Learning Architecture](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+![Basic Deep Learning Architecture](https://www.google.com.pk/imgres?imgurl=https%3A%2F%2Fwww.safaribooksonline.com%2Flibrary%2Fview%2Fdeep-learning%2F9781491924570%2Fassets%2Fdpln_0201.png&imgrefurl=https%3A%2F%2Fwww.safaribooksonline.com%2Flibrary%2Fview%2Fdeep-learning%2F9781491924570%2Fch04.html&docid=bhuS7mMOXDfCzM&tbnid=FTDyB4T1p8vFCM%3A&vet=10ahUKEwjk0Ln1s6PbAhWlBZoKHbJ0DwUQMwj2ASgHMAc..i&w=1030&h=573&bih=771&biw=1382&q=neural%20network%20architecture&ved=0ahUKEwjk0Ln1s6PbAhWlBZoKHbJ0DwUQMwj2ASgHMAc&iact=mrc&uact=8)
 
 
 
 There are various types of Deep Learning models and their usage vary on factors like type of dataset, type of problem to solve. One might get frustrated while thinking about the starting point of Deep Learning. If you know basics of Machine Learning and Mathematics then you can simply get into the learning phase. I covered few projects as part of my Online Nanodegree and they are as follows:
 
 
-### Table
-
 | Problem | Deep Learning Model | Github Repo |
 |--------------|---------------|----------------|---------------|
-| Image Classification Using Deep Learning   | Convolutional Neural Network | [Here](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)  |
-| Generate TV Scripts Using Deep Learning LSTM
+| Image Classification Using Deep Learning   | CNN | [Here](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)  |
 
-  | Long-Short Term Memory  | [Here](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)  |
-| Language Translation Using-Deep Learning 
+| Generate TV Scripts Using Deep Learning LSTM | LSTM  | [Here](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)  |
 
-  | Long-Short Term Memory | []] | [Here](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
+| Language Translation Using-Deep Learning | LSTM | [Here](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
 
+| Generate Faces Using Deep Learning  | GANs | [Here](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
 
