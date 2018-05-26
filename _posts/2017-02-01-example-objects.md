@@ -4,7 +4,7 @@ date:   2018-05-10
 categories: Artificial Intelligence
 ---
 
-Deep Learning is one of the advanced fields of this decade that revolutionized Artificial Intelligence as a whole. It is deep learning that created the possibility of solving large-scale problems in the present world. Deep Learning is a branch of traditional Machine Learning where we extend the structure and functionality of Neural Networks to solve complex problems and model vast data for accurate predictions.  
+Deep Learning is one of the advanced fields of this decade that revolutionized **Artificial Intelligence** as a whole. It is deep learning that created the possibility of solving large-scale problems in the present world. Deep Learning is a branch of traditional **Machine Learning** where we extend the structure and functionality of Neural Networks to solve complex problems and model vast data for accurate predictions.  
 
 Due to the emergence of this field, researchers all over the world started exploring it. Amazon created Alexa, Google made search and Language Translation better, Facebook improved their image tagging more accurate --- all are using Deep Learning behind the scene. Deep Learning is even integrated to other parts of A.I. as well such as Reinforcement Learning.
 
