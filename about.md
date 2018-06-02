@@ -12,7 +12,7 @@ After a Computer Science Major I have been a part of working in several projects
 
  - Optical Character Recognition
  - Deep Learning
- - Banking Solutions and ETL
+ - Banking Solutions and Databases
  - Full Stack Web Development
  
 Currently I am pursuing Masters in Computer Science as a Researcher. My area of research surrounds to:
@@ -27,9 +27,8 @@ Currently I am pursuing Masters in Computer Science as a Researcher. My area of 
 * LinkedIn: [Here][4].
 
 
+
 * Email: p177003@nu.edu.pk :: aizazsharif@gmail.com 
-
-
 
 [1]: https://github.com/AizazSharif
 [2]: https://twitter.com/AizazSharif420
