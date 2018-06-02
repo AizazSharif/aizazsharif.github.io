@@ -28,10 +28,9 @@ Currently I am pursuing Masters in Computer Science as a Researcher. My area of 
 
 
 
-* Email: p177003@nu.edu.pk :: aizazsharif@gmail.com 
+You can email me at: p177003@nu.edu.pk OR aizazsharif@gmail.com 
 
 [1]: https://github.com/AizazSharif
 [2]: https://twitter.com/AizazSharif420
 [3]: https://www.facebook.com/AizazSharif
 [4]: https://www.linkedin.com/in/aizazsharif/
-
