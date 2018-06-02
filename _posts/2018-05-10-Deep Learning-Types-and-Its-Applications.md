@@ -18,9 +18,9 @@ There are various types of Deep Learning models and their usage varies on factor
 
 | Generate TV Scripts Using Deep Learning    | LSTM  | [Here](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)  |
 
-| Language Translation Using-Deep Learning   | LSTM  | [Here](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
+| Language Translation Using-Deep Learning   | LSTM  | [Here](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM) |
 
-| Generate Faces Using Deep Learning         | GANs  | [Here](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
+| Generate Faces Using Deep Learning         | GANs  | [Here](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN) |
 
 
 
