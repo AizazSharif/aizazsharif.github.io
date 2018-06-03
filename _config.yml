@@ -27,6 +27,6 @@ links: # see http://fontawesome.io/icons/#brand for all possible icons
   - envelope: "p177003@nu.edu.pk"
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
-plugins: [jekyll-feed, jekyll-paginate]
+plugins: [jekyll-feed, jekyll-paginate, jekyll-seo-tag]
 
 theme: jekyll-theme-cayman

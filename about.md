@@ -2,11 +2,11 @@
 title: "About"
 ---
 
-### About Me
+## About Me
 
 My name is Aizaz Sharif and I am a Computer Science Graduate, Software Engineer, Data Scientist, Researcher, and a Gamer. My main field of interest is Machine Learning & Artificial Intelligence. 
 
-### Work and Experience
+## Work and Experience
 
 After a Computer Science Major I have been a part of working in several projects in industry career. They involve: 
 
@@ -19,7 +19,7 @@ Currently I am pursuing Masters in Computer Science as a Researcher. My area of 
  - Android Malware Analysis
  - Sensor Networks for Low Cost Seismic Monitoring
 
-### Find me @
+## Find me @
 
 * Github: [Here][1].
 * Twitter: [Here][2].
