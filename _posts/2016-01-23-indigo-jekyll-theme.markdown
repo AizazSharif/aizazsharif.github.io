@@ -3,7 +3,7 @@ title: "Smartphone Based Human Activity Surveillance System"
 layout: post
 date: 2016-09-10
 tag: jekyll
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
