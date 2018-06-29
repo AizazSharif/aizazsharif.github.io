@@ -3,44 +3,35 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
+## About Me
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+My name is Aizaz Sharif and I am a Computer Science Graduate, Software Engineer, Data Scientist, Researcher, and a Gamer. My main field of interest is Machine Learning & Artificial Intelligence. 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## Work and Experience
 
-<h2>Skills</h2>
+After a Computer Science Major I have been a part of working in several projects in industry career. They involve: 
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+ - Optical Character Recognition
+ - Deep Learning
+ - Banking Solutions and Databases
+ - Full Stack Web Development
+ 
+Currently I am pursuing Masters in Computer Science as a Researcher. My area of research surrounds to:
+ - Android Malware Analysis
+ - Sensor Networks for Low Cost Seismic Monitoring
 
-<h2>Projects</h2>
+## Find me @
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+* Github: [Here][1].
+* Twitter: [Here][2].
+* Facebook: [Here][3].
+* LinkedIn: [Here][4].
+
+
+
+You can email me at: p177003@nu.edu.pk OR aizazsharif@gmail.com 
+
+[1]: https://github.com/AizazSharif
+[2]: https://twitter.com/AizazSharif420
+[3]: https://www.facebook.com/AizazSharif
+[4]: https://www.linkedin.com/in/aizazsharif/
