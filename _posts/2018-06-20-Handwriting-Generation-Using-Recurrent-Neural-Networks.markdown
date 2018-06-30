@@ -5,7 +5,7 @@ date:   2018-06-20
 image: /assets/images/markdown.jpg
 header-img: /assets/images/markdown.jpg
 tag:
-- Long_Short Term Memory
+- Long-Short Term Memory
 - Sequence Generation
 - PyTorch
 category: blog
