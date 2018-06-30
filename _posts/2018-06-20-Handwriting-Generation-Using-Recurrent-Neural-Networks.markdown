@@ -3,7 +3,7 @@ title:  "Handwriting Generation Using Recurrent Neural Networks"
 layout: post
 date:   2018-06-20 
 image: /assets/images/markdown.jpg
-header-img: "/assets/images/markdown.jpg"
+thumbnail: /assets/images/markdown.jpg
 tag:
 - Long_Short Term Memory
 - Sequence Generation
