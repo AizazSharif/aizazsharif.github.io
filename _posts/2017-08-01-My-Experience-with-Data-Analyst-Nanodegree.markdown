@@ -7,11 +7,11 @@ headerImage: false
 tag:
 - Data Analyst
 - Data Science
-star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: Aizaz Sharif
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
+
 
 Data Analyst Nanodegree is of the finest and detailed courses present for online students to help out beginners who want to learn essential skills in Data Science. I started this course in December 2016 during my job as a Software Engineer and it helped me a lot in keeping myself updated with the necessary tools and languages that are required by Data Analysts. The skills you can learn are:
 
