@@ -25,7 +25,7 @@ There are various types of Deep Learning models and their usage varies on factor
 - Deep Learning Model : Convolutional Neural Network (CNN)
 - Project Link : [Github](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)
 
-![Image][CNN.png]
+![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/CNN.png]
 
 ---
 
@@ -33,7 +33,7 @@ There are various types of Deep Learning models and their usage varies on factor
 - Deep Learning Model : Long-Short Term Memory (LSTM)
 - Project Link : [Github](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)
 
-![Image][LSTM2.png]
+![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/LSTM2.png]
 
 ---
 
@@ -41,14 +41,14 @@ There are various types of Deep Learning models and their usage varies on factor
 - Deep Learning Model : Long-Short Term Memory (LSTM)
 - Project Link : [Github](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
 
-![Image][LSTM.jpg]
+![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/LSTM.jpg]
 
 ---
 
 ### Generate Faces Using Deep Learning
 - Deep Learning Model : Generative Adversarial Networks (GANs)
 - Project Link : [Github](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
-![Markdowm Image][ganpic.png]
+![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/ganpic.png]
 
 ---
 
