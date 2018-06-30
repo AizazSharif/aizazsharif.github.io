@@ -20,17 +20,36 @@ Due to the emergence of this field, researchers all over the world started explo
 
 There are various types of Deep Learning models and their usage varies on factors like type of dataset, type of problem to solve. One might get frustrated while thinking about the starting point of Deep Learning. If you know basics of Machine Learning and Mathematics then you can simply get into the learning phase. I covered few projects as part of my Online Nanodegree and they are as follows:
 
+---
+### Image Classification Using Deep Learning 
+- Deep Learning Model : Convolutional Neural Network (CNN)
+- Project Link : [Github](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)
+![Markdowm Image][../assets/images/CNN.png]
 
-| Problem                                    | Deep Learning Model | Github Repo      |
-|--------------------------------------------|-------|----------------|---------------|
-| Image Classification Using Deep Learning   | CNN   | [Here](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)  |
+*Figure Caption*?
+---
 
-| Generate TV Scripts Using Deep Learning    | LSTM  | [Here](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)  |
+### Generate TV Scripts Using Deep Learning 
+- Deep Learning Model : Long-Short Term Memory (LSTM)
+- Project Link : [Github](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)
+![Markdowm Image][../assets/images/LSTM2.png]
 
-| Language Translation Using-Deep Learning   | LSTM  | [Here](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM) |
+---
 
-| Generate Faces Using Deep Learning         | GANs  | [Here](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN) |
+### Language Translation Using-Deep Learning
+- Deep Learning Model : Long-Short Term Memory (LSTM)
+- Project Link : [Github](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
+![Markdowm Image][../assets/images/LSTM.jpg]
 
+---
 
+### Generate Faces Using Deep Learning
+- Deep Learning Model : Generative Adversarial Networks (GANs)
+- Project Link : [Github](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
+![Markdowm Image][../assets/images/ganpic.png]
+
+---
 
 You can easily follow instruction of Python and Environmental Setup to run **Jupyter Notebook** in each project. By going through these applications one can grap the intuition of how each model works. 
+
+
