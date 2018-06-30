@@ -3,11 +3,11 @@ name: Aizaz Sharif
 bio: Computer Science Major, Data Scientis, and Researcher
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -34,7 +34,7 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 #[blog, project]
 # if you don't have any of social below, comment the line
-facebook: \AizazSharif
+facebook: AizazSharif
 twitter: AizazSharif420
 # google: mygoogle
 instagram: aizaz_sharif_420/
