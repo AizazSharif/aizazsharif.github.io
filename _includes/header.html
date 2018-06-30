@@ -5,7 +5,15 @@
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
+    <header class="header-home {% if site.animation %}animated{% endif %}">\
+
+
+        {% if page.header-img %}
+           <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+        {% endif %}
+
+        <meta property="og:description" />
+
         {% if site.about %}
             <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
