@@ -1,17 +1,16 @@
 ---
-title: "Smartphone Based Human Activity Surveillance System"
+title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
-date: 2016-09-10
+date: 2016-01-23 22:10
 tag: jekyll
-headerImage: false
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: Aizaz Sharif
+author: johndoe
 externalLink: false
-description: "An Android Application for my project on 'Smartphone Based Human Activity Surveillance System'. "
-
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
@@ -19,12 +18,6 @@ description: "An Android Application for my project on 'Smartphone Based Human A
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
 ---
-
-With its ability to use Machine Learning within Android app, it can recognize, record and visualize basic human 6 physical activities like walking, running, sitting, standing, upstairs and downstairs in REAL TIME.
-
-Yeah that was my Final Year Project and now I am working to extend my work and experience in Data Science and A.I.
-Github link : [Here](https://github.com/AizazSharif/Apex-master-Final)
-
 
 What has inside?
 
