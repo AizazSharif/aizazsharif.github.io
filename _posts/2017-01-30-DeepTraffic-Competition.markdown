@@ -9,7 +9,7 @@ tag:
 - Javascript
 - ConvNetJS 
 category: blog
-author: Aizaz Sharif
+author: aizazsharif
 description: "A Deep Reinforcement Learning problem of a Self-driving car as a competiton."
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---

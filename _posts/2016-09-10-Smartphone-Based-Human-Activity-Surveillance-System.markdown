@@ -9,7 +9,7 @@ tag:
 - Android Application
 - Health
 category: blog
-author: Aizaz Sharif
+author: aizazsharif
 description: "An Android Application for my project on 'Smartphone Based Human Activity Surveillance System'. "
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---

@@ -9,7 +9,7 @@ tag:
 - Machine Learning
 - Python
 category: blog
-author: Aizaz Sharif
+author: aizazsharif
 description: "Good news for all of those who want to implement Recommender Systems through Python."
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---

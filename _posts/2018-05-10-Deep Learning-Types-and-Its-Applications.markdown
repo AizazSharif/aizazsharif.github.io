@@ -8,12 +8,13 @@ tag:
 - Artificial Intelligence
 - Deep Learning
 category: blog
-author: Aizaz Sharif
+author: aizazsharif
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 Deep Learning is one of the advanced fields of this decade that revolutionized **Artificial Intelligence** as a whole. It is deep learning that created the possibility of solving large-scale problems in the present world. Deep Learning is a branch of traditional **Machine Learning** where we extend the structure and functionality of Neural Networks to solve complex problems and model vast data for accurate predictions.  
+
 
 Due to the emergence of this field, researchers all over the world started exploring it. Amazon created Alexa, Google made search and Language Translation better, Facebook improved their image tagging more accurate --- all are using Deep Learning behind the scene. Deep Learning is even integrated to other parts of A.I. as well such as Reinforcement Learning.
 
@@ -25,7 +26,8 @@ There are various types of Deep Learning models and their usage varies on factor
 - Deep Learning Model : Convolutional Neural Network (CNN)
 - Project Link : [Github](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)
 
-![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/CNN.png]
+<img src="{{site.baseurl}}/assets/images/CNN.png">
+<figcaption class="caption">Convolutional Neural Network Architecture</figcaption>
 
 ---
 
@@ -33,7 +35,8 @@ There are various types of Deep Learning models and their usage varies on factor
 - Deep Learning Model : Long-Short Term Memory (LSTM)
 - Project Link : [Github](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)
 
-![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/LSTM2.png]
+<img src="{{site.baseurl}}/assets/images/LSTM2.png">
+<figcaption class="caption">LSTM Architecture</figcaption>
 
 ---
 
@@ -41,14 +44,17 @@ There are various types of Deep Learning models and their usage varies on factor
 - Deep Learning Model : Long-Short Term Memory (LSTM)
 - Project Link : [Github](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
 
-![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/LSTM.jpg]
+<img src="{{site.baseurl}}/assets/images/sequence-to-sequence.jpg">
+<figcaption class="caption">LSTM Sequence-to-Sequence Architecture</figcaption>
 
 ---
 
 ### Generate Faces Using Deep Learning
 - Deep Learning Model : Generative Adversarial Networks (GANs)
 - Project Link : [Github](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
-![Image][https://github.com/AizazSharif/aizazsharif.github.io/blob/master/_posts/ganpic.png]
+
+<img src="{{site.baseurl}}/assets/images/ganpic.png">
+<figcaption class="caption">Generative Adversarial Networks Architecture</figcaption>
 
 ---
 
