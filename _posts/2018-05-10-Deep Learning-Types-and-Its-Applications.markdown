@@ -1,10 +1,5 @@
 ---
 title:  "Deep Learning: Types and Its Applications"
-date:   2018-05-10 
-categories: Artificial Intelligence
----
----
-title:  "Deep Learning: Types and Its Applications"
 layout: post
 date:   2018-05-10 
 image: /assets/images/markdown.jpg
@@ -14,7 +9,7 @@ tag:
 - Deep Learning
 category: blog
 author: Aizaz Sharif
-description: A summary of Deep Learning and its basic models with projects
+description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
