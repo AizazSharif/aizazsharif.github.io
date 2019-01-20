@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://drive.google.com/open?id=1J_hwCGl_9leSRmOjTpgFCjhv6Q7RiOLJ
+resume-external: false
+resume-url: AizazSharifResume.pdf
 
 url: http://aizazsharif.github.io
 # your url: http://USERNAME.github.io

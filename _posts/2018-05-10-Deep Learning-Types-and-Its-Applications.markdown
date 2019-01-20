@@ -25,6 +25,7 @@ There are various types of Deep Learning models and their usage varies on factor
 ### Image Classification Using Deep Learning 
 - Deep Learning Model : Convolutional Neural Network (CNN)
 - Project Link : [Github](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)
+
 <center>
 <img src="{{site.baseurl}}/assets/images/CNN.png">
 <figcaption class="caption">Convolutional Neural Network Architecture</figcaption>
