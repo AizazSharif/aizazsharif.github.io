@@ -28,16 +28,17 @@ There are two types of handwriting generation.
 
 ### Unconditional Handwriting
 Here the model is trained with the sequnces provided in the dataset and is asked to pick any handwriting style for generating some text at random to see the performance of the model. 
-
+<center>
 <img src="https://greydanus.github.io/assets/scribe/stroke_to_ascii.png">
 <figcaption class="caption">Handwriting Generation</figcaption>
-
+</center>
 
 ### Conditional Handwriting
 It is more complex since the prediction is involved now. You will be training your model not just on the handwriting sequences but on the ascii text sentences in parallel as well. This way when the model is ready, it will generate handwriting based on text you have provided to generate.
-
+<center>
 <img src="https://greydanus.github.io/assets/scribe/ascii_to_stroke.png">
 <figcaption class="caption">Handwriting generation from ascii characters</figcaption>
+</center>
 
 
 
@@ -45,21 +46,27 @@ It is more complex since the prediction is involved now. You will be training yo
 After training the model for 50 epochs I generated both Unconditional Handwriting and Conditional Handwriting images. The quality and accuracy of the handwriting can be increased if there is GPU accesible so that the model can be trained further for improvement.
 
 ---
+<center>
 <img src="{{site.baseurl}}/assets/images/conditional_sample_4.png">
 <figcaption class="caption">Conditional Handwriting</figcaption>
+</center>
 
 ---
 
 ---
+<center>
+
 <img src="{{site.baseurl}}/assets/images/unconditional_sample_2.png">
 <figcaption class="caption">Unconditional Handwriting</figcaption>
+</center>
 
 ---
 
 There are a lot of minute technical details regarding the architecture but I am skipping that so that one can get the basic concept first before exploring more. The two sources that helped me in this were the proposed paper itself and the lecture of the author himself at the Oxford University on this topic.
 
 ---
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-yX1SYeDHbg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+</center>
 ---
 You can find the source code [here](https://github.com/AizazSharif/Handwriting-Generation-Using-Recurrent-Neural-Networks).

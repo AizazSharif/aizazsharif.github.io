@@ -25,37 +25,37 @@ There are various types of Deep Learning models and their usage varies on factor
 ### Image Classification Using Deep Learning 
 - Deep Learning Model : Convolutional Neural Network (CNN)
 - Project Link : [Github](https://github.com/AizazSharif/P2-Image-Classification-Using-Deep-Learning-CNN)
-
+<center>
 <img src="{{site.baseurl}}/assets/images/CNN.png">
 <figcaption class="caption">Convolutional Neural Network Architecture</figcaption>
-
+</center>
 ---
 
 ### Generate TV Scripts Using Deep Learning 
 - Deep Learning Model : Long-Short Term Memory (LSTM)
 - Project Link : [Github](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)
-
+<center><center>
 <img src="{{site.baseurl}}/assets/images/LSTM2.png">
 <figcaption class="caption">LSTM Architecture</figcaption>
-
+</center>
 ---
 
 ### Language Translation Using-Deep Learning
 - Deep Learning Model : Long-Short Term Memory (LSTM)
 - Project Link : [Github](https://github.com/AizazSharif/P4-DLND-Language-Translation-Using-Deep-Learning-LSTM)
-
+<center>
 <img src="{{site.baseurl}}/assets/images/sequence-to-sequence.jpg">
 <figcaption class="caption">LSTM Sequence-to-Sequence Architecture</figcaption>
-
+</center>
 ---
 
 ### Generate Faces Using Deep Learning
 - Deep Learning Model : Generative Adversarial Networks (GANs)
 - Project Link : [Github](https://github.com/AizazSharif/P5-DLND-Generate-Faces-Using-Deep-Learning-GAN)
-
+<center>
 <img src="{{site.baseurl}}/assets/images/ganpic.png">
 <figcaption class="caption">Generative Adversarial Networks Architecture</figcaption>
-
+</center>
 ---
 
 You can easily follow instruction of Python and Environmental Setup to run **Jupyter Notebook** in each project. By going through these applications one can grap the intuition of how each model works. 
