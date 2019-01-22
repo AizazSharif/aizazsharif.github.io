@@ -35,7 +35,7 @@ There are various types of Deep Learning models and their usage varies on factor
 ### Generate TV Scripts Using Deep Learning 
 - Deep Learning Model : Long-Short Term Memory (LSTM)
 - Project Link : [Github](https://github.com/AizazSharif/P3-Generate-TV-Scripts-Using-Deep-Learning-LSTM)
-<center><center>
+<center>
 <img src="{{site.baseurl}}/assets/images/LSTM2.png">
 <figcaption class="caption">LSTM Architecture</figcaption>
 </center>
