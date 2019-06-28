@@ -3,7 +3,7 @@ name: Aizaz Sharif
 bio: Computer Science Major, Data Scientist, and Researcher
 
 # twitter summary info
-description: Computer Science Major, Data Scientist, and Researcher
+description: Computer Science Major, Researcher, Developer, and Gamer
 
 # if it's an external image, update below for true
 # better with square images
@@ -48,7 +48,7 @@ github: AizazSharif
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+medium: AizazSharif420
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: aizazsharif@gmail.com
@@ -56,7 +56,7 @@ email: aizazsharif@gmail.com
 authors:
     aizazsharif:
         name: Aizaz Sharif
-        bio: Computer Science Major, Data Scientis, and Researcher
+        bio: Computer Science Major, Researcher, Developer, and Gamer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: AizazSharif420
@@ -96,11 +96,12 @@ show-author: true
 animation: true
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-admin
+  - jekyll-include-cache
 
 jekyll-mentions:
     base_url: https://github.com
