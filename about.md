@@ -26,7 +26,7 @@ Currently, I am pursuing a Masters in Computer Science and also working as a Res
 ## Hobbies 
 
 Hobbies matter a lot for me in order to take a break from workload and studies. The regular ones to mention are:
- - Online Competitive Gaming [Rainbow Six Siege][1]
+ - Online Competitive Gaming ([Rainbow Six Siege][1] being my favourite)
  - Single Player Games (Indie, Platformers, First-Person, Third-Person, Action Adventure)
  - Reading [Blogs][2]
  - Playing Squash
