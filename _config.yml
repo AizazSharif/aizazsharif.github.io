@@ -96,6 +96,7 @@ show-author: true
 animation: true
 
 plugins:
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
