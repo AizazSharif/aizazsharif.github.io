@@ -8,7 +8,6 @@ projects: true
 description: "My Thesis research"
 category: project
 author: aizazsharif
-externalLink: false
 tag:
 - Function Identification 
 - Function Boundary
