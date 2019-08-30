@@ -10,7 +10,7 @@ tag:
 category: blog
 author: aizazsharif
 description: Markdown summary with different options
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="{{site.baseurl}}/assets/images/CNN.png" height="20" width="20" align="absmiddle">'
 ---
 
 Deep Learning is one of the advanced fields of this decade that revolutionized **Artificial Intelligence** as a whole. It is deep learning that created the possibility of solving large-scale problems in the present world. Deep Learning is a branch of traditional **Machine Learning** where we extend the structure and functionality of Neural Networks to solve complex problems and model vast data for accurate predictions.  
