@@ -1,8 +1,28 @@
 ---
-layout: default
+layout: compress
+file: page.url
 ---
-{% include header.html %}
 
-{{content}}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-{% include footer.html %}
+{% include head.html %}
+
+<body>
+  <div class="wrapper">
+  
+    {% include cover.html %}
+
+    <main aria-label="Content">
+      <div class="content">
+
+        {% include {{ page.url | remove: "/" }}.html %}
+
+      </div>
+    </main>
+    
+    {% include footer.html %}
+
+  </div>
+</body>
+</html>

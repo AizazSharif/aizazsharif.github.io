@@ -1,6 +1,5 @@
-## aizazsharif.github.io
+# Bangsring Jekyll Theme
+Description is work in progress
 
-A repository for deploying my portfolio using Jekyll and Github Pages.
----
-
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+## License
+MIT License 
