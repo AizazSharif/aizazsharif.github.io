@@ -1,5 +1,5 @@
 # Site settings
-title: Leah Rutherford
+title: Aizaz Sharif
 projects: true # false to hide my work
 description:  >-
   Turpis egestas integer eget aliquet nibh praesent tristique magna sit amet 
@@ -9,17 +9,17 @@ timezone: Asia/Jakarta
 icon: favicon.ico
 
 # User settings
-author: 
-  name: Leah Rutherford
-  username: piharpi
-  email: justharpi@gmail.com
+author: Aizaz Sharif
+  name: Aizaz Sharif
+  username: aizaz
+  email: aizazsharif@gmail.com
   avatar: '/assets/img/avatar.png'
 
 # Url settings
-url: https://piharpi.github.io/bangsring
+url: https://aizazsharif.github.io/
 baseurl: ""
 permalink: /:categories/:title
-google_analytics: UA-105586262-2
+google_analytics: UA-121645203-1
 fb_appid: 1806380839422028
 
 collections:
