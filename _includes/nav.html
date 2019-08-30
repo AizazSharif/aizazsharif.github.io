@@ -1,29 +1,5 @@
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
 	
-{% if site.projects %}
-	<h4 class="home-title"><span role="img" aria-label="icon-rocket">🚀</span>my works <span class="project-nav"><button id="prevProject" aria-label="arrow left">⟵</button><button id="nextProject" aria-label="arrow right">⟶</button></span></h4>
-	<div class="content">
-	<div class="projects">
-	<div class="projects-container" id="projectsContainer">
-	{% for project in site.data.projects %}
-	<div class="project-item">
-	<h4 class="project-item-title"><a target="_blank" href="{{ project.url }}" rel="noreferrer">{{ project.title | downcase }}</a></h4>
-	<p class="project-item-description">{{ project.description | downcase }}</p>  
-	<p class="project-action">{{ project.action }}</p>
-	</div>
-	{% endfor %}
-	</div>
-	</div>
-	</div>
-	{% endif %}
-	<script>
-    const projects = document.getElementById('projectsContainer'),
-          prev = document.getElementById('prevProject'),
-          next = document.getElementById('nextProject');
-          
-    next.addEventListener('mousedown', () => projects.scrollLeft += 245);
-    prev.addEventListener('mousedown', () => projects.scrollLeft -= 245);
-  </script>
 
     <ul class="list">
         {% if page.title != "Home" %}
