@@ -1,8 +1,5 @@
-<footer class="site-footer">
-    <p><span class="crafted">Crafted with 🍩 in Banyuwangi, <b>IDN</b>.</span></p>
+<footer class="footer-main">
+    {{ site.name }} © {{ site.time | date: '%Y' }} <a class="link" href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
+
+
 </footer>
-<script src="/assets/js/galite.js"></script>
-<script>
-  var galite = galite || {};
-  galite.UA = "{{ site.google_analytics }}";
-</script>

@@ -1,25 +1,50 @@
 ---
-title: About bangsring theme
-permalink: /about/
-excerpt: this is for page description
+title: About
+layout: page
 ---
-Website ini untuk mendokumentasikan 🎒 petualangan saya didunia pemprograman, Blog ini berjalan menggunakan jekyllrb.com, yang dihosting melalui netlify.com dan menggunakan tema [Bangsring](http://github.com/piharpi/bangsring) terdapat beberapa progress untuk blog ini :
+![Profile Image]({{ site.url }}/{{ site.picture }})
+## About Me
 
-- [ ] Social link icon.
-- [ ] Night mode Theme.
-- [ ] Nambahin HTML microdata.
-- [ ] Rapihin file ``.scss``.
-- [ ] ``<h1>`` - ``<h6>`` anchor hover.
-- [ ] Tags.
-<!-- flexible image layouts = menyesuaikan tata letak gambar sendiri jika banyak gambar yang di upload -->
+My name is Aizaz Sharif and I am a Computer Science Graduate, Software Engineer, Researcher, and a Gamer. 
 
-Silahkan melapor jika terdapat kesalahan diblog ini melalui **[issue](https://github.com/piharpi/me/issues/new?template=bug_report.md)** github.
+## Work and Experience
 
-### 🎈 Find me 
-- github.com/**piharpi** 
-- telegram.com/**piharpi**
-- twitter.com/**piharpi**
-- aizazsharif@gmail.com
+After a Computer Science Major, I have been a part of working in several projects in the industry career. They involve: 
 
-##### Credits: 
-- Mountain Nature icon by [Pondok Multimedia](https://iconscout.com/icon/nature-153).
+ - Python Backend Development
+ - Optical Character Recognition
+ - Deep Learning
+ - Banking Solutions and Databases
+ - Web Development 
+ 
+Currently, I am pursuing a Masters in Computer Science and also working as a Research Associate leading the team of software engineers for the ‘Mobile Phone Digital Forensics' project. My area of research surrounds:
+ - Android Malware Analysis
+ - Function Identification in Android Binaries
+ - Post-Mortem Mobile Device Forensics
+
+
+## Hobbies 
+
+Hobbies matter a lot for me in order to take a break from workload and studies. The regular ones to mention are:
+ - Online Competitive Gaming ([Rainbow Six Siege][1] being my favourite)
+ - Single Player Games (Indie, Platformers, First-Person, Third-Person, Action Adventure)
+ - Reading [Blogs][2]
+ - Playing Squash
+
+
+## Find me @
+
+* Github: [Here][3].
+* Twitter: [Here][4].
+* Facebook: [Here][5].
+* LinkedIn: [Here][6].
+
+
+You can email me at p177003@nu.edu.pk OR aizazsharif@gmail.com 
+
+[1]: https://r6.tracker.network/profile/pc/Legend27...
+[2]: https://medium.com/@AizazSharif420
+[3]: https://github.com/AizazSharif
+[4]: https://twitter.com/AizazSharif420
+[5]: https://www.facebook.com/AizazSharif
+[6]: https://www.linkedin.com/in/aizazsharif/
