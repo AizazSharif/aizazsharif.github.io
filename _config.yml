@@ -1,41 +1,39 @@
 # Site setings
-name: 'Horace'
-description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
-logo: 'assets/images/logo.png'
+name: Aizaz Sharif
+bio: Computer Science Major, Researcher, Developer, and Gamer
+meta_description: 'Computer Science Major, Researcher, Developer, and Gamer'
+
 favicon: 'assets/images/favicon.ico'
 baseurl: /
-production_url: https://nkdeepak.me
+production_url: http://aizazsharif.github.io
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: UA-49980823-11
+ga_analytics: UA-121645203-1
 
 
 # Author
 author:
-  name: 'Krishna Nallamilli'
-  image: 'krishna_profile.JPG'
-  greetings: 'Hi there!'
-  description: "My name is Krishna Nallamilli. I am a succesfull entrepreneur but still a very introvert at heart. I am excited about ML, AI."
-  bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
+  name: 'Aizaz Sharif'
+  image: 'assets/images/profile.jpg'
+  bio: 'Computer Science Major, Researcher, Developer, and Gamer'
 
 # Contact form setings
-email: deepak.nallamilli@gmail.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+email: aizazsharif@gmail.com
+contact_page_description: ""
+thankyou_page_description: "Your message has been successfully sent."
 
 # Social links
-twitter: 'krisnallamilli'
+twitter: 'AizazSharif420'
 #facebook: 'username'
-github: 'username'
+github: 'AizazSharif'
 #codepen: 'username'
 #dribbble: 'username'
-medium: '@krishna.n'
-#instagram: 'username'
+medium: '@AizazSharif420'
+instagram: 'aizaz_sharif_420'
 #pinterest: 'username'
-linkedin: 'krishnallamilli'
+linkedin: 'aizazsharif'
 #producthunt: '@username'
 
 # Navigation
@@ -53,7 +51,10 @@ plugins_dir:
   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 # Pagination
 paginate: 5
 paginate_path: /page:num/
