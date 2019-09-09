@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Aizaz Sharif
+title: Aizaz Sharif
 email: aizazsharif@gmail.com
 description: > # this means to ignore newlines until "url:"
   Computer Science Major, Researcher, Software Engineer, and a Philomath
@@ -81,6 +82,8 @@ plugins:
     - jekyll-email-protect
     - jekyll-paginate
     - jekyll-scholar
+    - jemoji
+    - jekyll-watch
     - jemoji
 
 # Jekyll-Scholar
