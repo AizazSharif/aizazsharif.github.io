@@ -1,108 +1,115 @@
-# main text of home
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
 name: Aizaz Sharif
-bio: Computer Science Major, Researcher, Developer, and Gamer
-
-# twitter summary info
-description: Computer Science Major, Researcher, Developer, and Gamer
-
-# if it's an external image, update below for true
-# better with square images
-external-image: false
-picture: assets/images/profile.jpg
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: false
-resume-url: AizazSharifResume.pdf
-
-url: http://aizazsharif.github.io
-# your url: http://USERNAME.github.io
-
-permalink: /:title/
-
-# To enable google analytics, supply your token below
-analytics-google: 'UA-121645203-1'
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
-
-# if you don't have any of social below, comment the line
-facebook: AizazSharif
-twitter: AizazSharif420
-# google: mygoogle
-instagram: aizaz_sharif_420
-# pinterest: mypinterest
-linkedin: aizazsharif
-# youtube: myyoutube
-# spotify: myspotify
-github: AizazSharif
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-medium: AizazSharif420
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 email: aizazsharif@gmail.com
+description: > # this means to ignore newlines until "url:"
+  Computer Science Major, Researcher, Software Engineer, and a Philomath
+url:  # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+last_updated: # leave blank if you don't want to display last updated
 
-authors:
-    aizazsharif:
-        name: Aizaz Sharif
-        bio: Computer Science Major, Researcher, Developer, and Gamer
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: AizazSharif420
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: AizazSharif
+twitter_username: AizazSharif420
+linkedin_username: aizazsharif
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: AizazSharif420
+quora_username: # your Quora username
 
-# do you want a larger site? change the option below
-# options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: large
+contact_note: >
+    The best way to contact me is through my email aizazsharif@gmail.com.
 
-# if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+google_analytics: UA-121645203-1
 
-# if you don't need projects, comment the *projects* configs below
-projects: true
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: Aizaz Sharif
+blog_description:  Computer Science Major, Researcher, Software Engineer, and a Philomath
 
-# if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+# Pagination
+paginate: 5
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
-# do you want to show the "read time" of the posts?
-read-time: true
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
 
-# do you want to show the "tags" inside the posts?
-show-tags: true
+# Comments
+disqus_shortname: Aizaz Sharif # put your disqus shortname
 
-# related posts inside a post?
-related: true
+# Optional features
+show_social_icons:  true
+enable_anchorjs:    false
+enable_katex:       true
 
-# Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-# show author block at the end of a post ?
-show-author: true
+news_limit: 5
 
-# do you want some animations?
-animation: true
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
 
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
 plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
 
-jekyll-mentions:
-    base_url: https://github.com
+# Jekyll-Scholar
+scholar:
+
+  last_name: Sharif
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.9.0"
+anchorjs_version: "3.2.2"

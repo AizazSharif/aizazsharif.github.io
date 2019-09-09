@@ -7,9 +7,7 @@ headerImage: false
 tag:
 - Data Analyst
 - Data Science
-category: blog
-author: aizazsharif
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+description: A short review of the Data Analyst Nanodegree.
 ---
 
 

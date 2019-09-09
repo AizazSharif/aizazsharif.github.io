@@ -8,10 +8,7 @@ tag:
 - Machine Learning
 - Android Application
 - Health
-category: blog
-author: aizazsharif
-description: "An Android Application for my project on 'Smartphone Based Human Activity Surveillance System'. "
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+description: "An Android Application for my final year project in BS Computer Science."
 ---
 With the ability to use Machine Learning within Android app, it can recognize, record and visualize basic human 6 physical activities like walking, running, sitting, standing, upstairs and downstairs in REAL TIME.
 

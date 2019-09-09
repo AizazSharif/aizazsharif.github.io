@@ -7,9 +7,7 @@ headerImage: false
 tag:
 - Blockchain
 - Decentralized Applications
-category: blog
-author: aizazsharif
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+description: a brief course overview to a "hello word" of blockchain.
 ---
 
 Everyone is into the cryptocurrencies and its investment side these days but very few tries to understand the decentralized ledger that works behind it. If you want to learn what is actually a **Blockchain** quickly and deploy it too then there is a ready path available for you.
