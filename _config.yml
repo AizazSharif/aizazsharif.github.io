@@ -6,8 +6,8 @@ title: Aizaz Sharif
 email: aizazsharif@gmail.com
 description: > # this means to ignore newlines until "url:"
   Computer Science Major, Researcher, Software Engineer, and a Philomath
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+url:  aizazsharif.github.io # the base hostname & protocol for your site
+baseurl: aizazsharif.github.io # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
