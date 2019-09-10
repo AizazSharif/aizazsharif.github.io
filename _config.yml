@@ -1,9 +1,9 @@
 # main text of home
 name: Aizaz Sharif
-bio: Computer Science Major, Researcher, and Software Engineer
+bio: Computer Science Major, Researcher, Software Engineer, and a Philomath
 
 # twitter summary info
-description: Computer Science Major, Researcher, Developer, and Gamer
+description: Computer Science Major, Researcher, Software Engineer, and a Philomath
 
 # if it's an external image, update below for true
 # better with square images
@@ -56,7 +56,7 @@ email: aizazsharif@gmail.com
 authors:
     aizazsharif:
         name: Aizaz Sharif
-        bio: Computer Science Major, Researcher, Developer, and Gamer
+        bio: Computer Science Major, Researcher, Software Engineer, and a Philomath
         external-image: false
         picture: assets/images/profile.jpg
         twitter: AizazSharif420

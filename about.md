@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 ## About Me
 
-My name is Aizaz Sharif and I am a Computer Science Graduate, Software Engineer, Researcher, and a Gamer. 
+My name is Aizaz Sharif and I am a computer science graduate, software engineer, researcher, and a ceaseless student. 
 
 ## Work and Experience
 
@@ -21,15 +21,6 @@ Currently, I am pursuing a Masters in Computer Science and also working as a Res
  - Android Malware Analysis
  - Function Identification in Android Binaries
  - Post-Mortem Mobile Device Forensics
-
-
-## Hobbies 
-
-Hobbies matter a lot for me in order to take a break from workload and studies. The regular ones to mention are:
- - Online Competitive Gaming ([Rainbow Six Siege][1] being my favourite)
- - Single Player Games (Indie, Platformers, First-Person, Third-Person, Action Adventure)
- - Reading [Blogs][2]
- - Playing Squash
 
 
 ## Find me @
