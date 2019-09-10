@@ -8,7 +8,8 @@ tag:
 - Long-Short Term Memory
 - Sequence Generation
 - PyTorch
-description: using LSTM for generating handwritings.
+category: blog
+author: aizazsharif
 ---
 
 As many of us have used WordArt extensively back in school life and other tools similar to it for generating stylish text. Since then there is a lack of cursive font that can look similar to the human handwriting and also available to be used inside books and articles. Now, with the power of Deep Learning we are able to generate human-like handwriting (including some cursive) inside a computer.
@@ -43,28 +44,26 @@ It is more complex since the prediction is involved now. You will be training yo
 ## Results
 After training the model for 50 epochs I generated both Unconditional Handwriting and Conditional Handwriting images. The quality and accuracy of the handwriting can be increased if there is GPU accesible so that the model can be trained further for improvement.
 
-
+---
 <center>
-<div>
-    <img class="col three" src="{{site.baseurl}}/assets/images/conditional_sample_4.png">
-	<figcaption class="caption">Conditional Handwriting</figcaption>
-</div>
-
-</center>
-<center>
-<div>
-    <img class="col three" src="{{site.baseurl}}/assets/images/unconditional_sample_2.png">
-	<figcaption class="caption">Unconditional Handwriting</figcaption>
-</div>
+<img src="{{site.baseurl}}/assets/images/conditional_sample_4.png">
+<figcaption class="caption">Conditional Handwriting</figcaption>
 </center>
 
+---
 
+---
+<center>
 
+<img src="{{site.baseurl}}/assets/images/unconditional_sample_2.png">
+<figcaption class="caption">Unconditional Handwriting</figcaption>
+</center>
 
 ---
 
 There are a lot of minute technical details regarding the architecture but I am skipping that so that one can get the basic concept first before exploring more. The two sources that helped me in this were the proposed paper itself and the lecture of the author himself at the Oxford University on this topic.
 
+---
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-yX1SYeDHbg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>

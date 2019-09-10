@@ -1,11 +1,5 @@
-source 'https://rubygems.org'
-group :jekyll_plugins do
-    gem 'github-pages'
-    gem 'jekyll'
-    gem 'jekyll-email-protect'
-    gem 'jekyll-paginate'
-    gem 'jekyll-scholar'
-    gem 'jemoji'
-    gem 'unicode_utils'
-    gem 'jekyll-watch'
-end
+source 'http://rubygems.org'
+gem 'jekyll-seo-tag'
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll-admin'

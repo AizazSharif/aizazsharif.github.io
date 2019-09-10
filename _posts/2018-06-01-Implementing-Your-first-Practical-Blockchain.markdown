@@ -7,7 +7,9 @@ headerImage: false
 tag:
 - Blockchain
 - Decentralized Applications
-description: a brief course overview to a "hello word" of blockchain.
+category: blog
+author: aizazsharif
+description: a beginner course overview to a "hello word" of blockchain.
 ---
 
 Everyone is into the cryptocurrencies and its investment side these days but very few tries to understand the decentralized ledger that works behind it. If you want to learn what is actually a **Blockchain** quickly and deploy it too then there is a ready path available for you.
