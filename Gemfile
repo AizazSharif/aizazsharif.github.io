@@ -1,5 +1,6 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 gem 'jekyll-seo-tag'
 gem 'github-pages'
 gem 'html-proofer'
 gem 'jekyll-admin'
+gem 'jekyll-include-cache'

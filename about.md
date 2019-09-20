@@ -17,7 +17,7 @@ After a Computer Science Major, I have been a part of working in several project
  - Banking Solutions and Databases
  - Web Development 
  
-Currently, I am pursuing a Masters in Computer Science and also working as a Research Associate leading the team of software engineers for the ‘Mobile Phone Digital Forensics' project. My area of research surrounds:
+Currently, I am pursuing a Masters in Computer Science and also working as a Research Associate leading the team of software engineers for the ‘Mobile Phone Digital Forensics' [project][7]. My area of research surrounds:
  - Android Malware Analysis
  - Function Identification in Android Binaries
  - Post-Mortem Mobile Device Forensics
@@ -39,3 +39,4 @@ You can email me at p177003@nu.edu.pk OR aizazsharif@gmail.com
 [4]: https://twitter.com/AizazSharif420
 [5]: https://www.facebook.com/AizazSharif
 [6]: https://www.linkedin.com/in/aizazsharif/
+[7]: http://www.nccs.pk/

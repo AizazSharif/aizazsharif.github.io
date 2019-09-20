@@ -1,7 +1,7 @@
 ---
 title: "Function Identification in Android Binaries with Deep Learning"
 layout: post
-date: 2019-08-01 10:10
+date: 2019-09-19 12:00
 tag: jekyll
 headerImage: true
 projects: true
@@ -24,6 +24,6 @@ Application security support has become a preference for the enterprise as cyber
 
 ---
 ### Links for the paper 
-- Submitted : [Here](https://is-candar.org/)
-- Download the dataset : <a href="https://drive.google.com/open?id=1Glv-L14lE2XAfhDsPtCMV0tY7WTONJOJ" download>Here</a>
+- Accepted : [Here](https://is-candar.org/)
+- Download the created dataset : <a href="https://drive.google.com/open?id=1Glv-L14lE2XAfhDsPtCMV0tY7WTONJOJ" download>Here</a>
 
