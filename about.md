@@ -18,7 +18,10 @@ After a Computer Science Major, I have been a part of working in several project
  - Web Development 
  
 Currently, I am pursuing a Masters in Computer Science and also working as a Research Associate leading the team of software engineers for the ‘Mobile Phone Digital Forensics' [project][7]. My area of research surrounds:
+ - Deep Learning
  - Android Malware Analysis
+ - Bioinformatics
+ - Medical Imaging
  - Function Identification in Android Binaries
  - Post-Mortem Mobile Device Forensics
 
