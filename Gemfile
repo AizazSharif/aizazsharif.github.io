@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
-gem 'jekyll-seo-tag'
-gem 'github-pages'
-gem 'html-proofer'
-gem 'jekyll-admin'
-gem 'jekyll-include-cache'
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem 'jekyll'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-paginate'
+    gem 'jekyll-scholar'
+    gem 'jemoji'
+    gem 'unicode_utils'
+end
