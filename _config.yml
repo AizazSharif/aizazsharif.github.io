@@ -95,6 +95,7 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
+    - jekyll-seo
     - jekyll-email-protect
     - jekyll-paginate
     - jekyll/scholar
