@@ -3,28 +3,27 @@ layout: default
 ---
 
 <!-- (comment) the image below can be found in img folder of this very project-->
-![i_am_a_fox](./img/people/lena-min.png){: style="float: right; margin: 0px 20px; width: 204px; height: 240px" name="fox"}
+![i_am_a_fox](./img/people/profile.jpg){: style="float: right; margin: 0px 20px; width: 240px; height: 240px" name="fox"}
 
 
 <!-- <a href= onMouseOver="document.readmore_1.src='/img/people/foxie.jpeg';" onMouseOut="document.readmore_1.src='/img/people/lena-min.png';">
 <img src="/img/people/lena-min.png" name="readmore_1" width=204px height=240px></a> -->
 
 
-I am Elena (Lena) Voita, a __Ph.D. student__ at the University of Edinburgh and University of Amsterdam. I'm very happy to be supervised by [Ivan Titov]({{site:ivan_page}}) and [Rico Sennrich]({{site.rico_page}}).
+I am Aizaz Sharif, a __Ph.D. student__ at Simula Research Laboratory and the University of Oslo. I'm very happy to be supervised by [Dusica Marijan]({{site:ivan_page}}) and [Arnaud Gotlieb]({{site.rico_page}}).
 
-I'm a [__Facebook PhD Fellow__](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/) (from fall 2020).
+Previously, I was a __research associate__ at [NCCS]({{site.yandex_research_main}}) and worked closely with the Mobile Forensics by leading a software development team. 
 
-Previously, I was a __research scientist__ at [Yandex Research]({{site.yandex_research_main}}) and worked closely with the [Yandex Translate](https://translate.yandex.com) team<a onMouseOver="document.fox.src='/img/people/foxie.jpeg';" onMouseOut="document.fox.src='/img/people/lena-min.png';">.</a>
-I (still) [teach NLP](https://github.com/yandexdataschool/nlp_course) at the [Yandex School of Data Analysis](https://yandexdataschool.com).
+You can find my resume [here](AizazSharifResume2020.pdf).
 
 
-## <span style="color:darkblue">News </span>
+<span style="color:darkblue">News </span>
 
-* 04/2020 Our [BPE-dropout](https://arxiv.org/pdf/1910.13267.pdf) is _accepted to __ACL__ 2020_. 
-* 01/2020 I'm [awarded Facebook PhD Fellowhip](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/).
-* 01/2020 Giving several talks, including talks at Google Research Berlin, [Naver Labs Europe](https://europe.naverlabs.com/research/seminars/analyzing-information-flow-in-transformers/), NLP track at [Applied Machine Learning Days at EPFL](https://appliedmldays.org/tracks/ai-nlp).
-* 09/2019 _To appear at __NeurIPS__ 2019_: [Sequence Modeling with Unconstrained Generation Order](https://arxiv.org/abs/1911.00176).
-* 08/2019 __2__ papers _accepted to __EMNLP__ 2019_!
-* 06/2019 Attending Google NLP summit in Zurich.
-* 05/2019 __2__ papers _accepted to __ACL__ 2019_, one is oral!
 
+* 02/2020 I started my [Ph.D.](https://arxiv.org/pdf/1910.13267.pdf) at the __Simula Research Laboratory__, Fornebu, Norway. 
+* 01/2020 __2__ papers published to IEEE Explore, one related to [Malware Analysis](https://ieeexplore.ieee.org/abstract/document/8958412/) and other in the field of [Medical Imaging](https://ieeexplore.ieee.org/abstract/document/8994408).
+* 11/2019 Awarded as __Best Outstanding Paper__ in the CANDAR'19 conference, Nagasaki, Japan.
+* 11/2019 Visiting Nagasaki, Japan to appear at [CANDAR'19](https://is-candar.org/) for presenting my Master's thesis: [Function Identification in Android Binaries with Deep Learning](https://ieeexplore.ieee.org/abstract/document/8958412/).
+* 10/2019 Graduated as M.Sc. Computer Science in the [FAST NUCES](https://www.nu.edu.pk/) under the supervision of [Muhammad Nauman](https://recluze.net/).
+* 09/2019 __1__ conference paper accepted to __CANDAR 2019__, Japan.
+* 07/2019 __1__ journal paper published to __Transactions on Emerging Telecommunications Technologies__.
