@@ -10,7 +10,7 @@ researchgate: Aizaz_Sharif
 description: > # this symbol means ignore newlines until "baseurl:"
     Computer Science Major, Researcher, Software Engineer, and a Philomath
 baseurl: "" # keep blank unless you're using sub-paths
-url: "http://aizazsharif.github.io" # the base hostname & protocol for your site
+url: "https://aizazsharif.github.io" # the base hostname & protocol for your site
 #paginate: 3
 
 # you can also declare arbitrary key-value data here
