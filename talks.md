@@ -1,7 +1,7 @@
 ---
 layout: photolist
-title: Talks & Service
-menu: yes
+title: Interests & Hobbies
+menu: no
 order: 3
 ---
 

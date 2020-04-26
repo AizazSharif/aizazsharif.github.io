@@ -1,6 +1,6 @@
 ---
 layout: photolist
-title: Teaching & Supervising
+title: Diary
 menu: yes
 order: 4
 ---
@@ -17,8 +17,10 @@ The team:
 * Maksim Ryabinin: a very cool paper which will be here soon :)
 * Fedor Moiseev: [ACL 2019 paper](https://www.aclweb.org/anthology/P19-1580/)
 
-
-
+<hr/>
+<hr/>
+<hr/>
+<!--- --------------------------------------------------------------- --->
 ## <span style="color:darkblue"> Courses </span>
 {% assign courses = (site.data.courses | where: "selected", "y") %}
 {% for course in courses %}
