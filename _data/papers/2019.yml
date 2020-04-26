@@ -8,7 +8,7 @@
   title: "Evaluation of Multi-Modal MRI Images for Brain Tumor Segmentation"
   authors: "Safia Fatima, Hafeez Ur Rehman, <u>Aizaz Sharif</u>, Usman Habib"
   doc-url: 
-  conf: ICET2019.png
+  conf: ICET2019.jpg
   url: "https://ieeexplore.ieee.org/abstract/document/8994408/"
 
 - layout: paper
@@ -19,9 +19,10 @@
   title: "Function Identification in Android Binaries with Deep Learning"
   authors: "<u>Aizaz Sharif</u>, Muhammad Nauman"
   doc-url: https://www.researchgate.net/publication/338654886_Function_Identification_in_Android_Binaries_with_Deep_Learning
-  conf: CANDAR.png
+  conf: CANDAR2019.jpg
   url: "https://ieeexplore.ieee.org/abstract/document/8958412"
-
+  award: CANDAR Outstanding Paper
+  awardlogo: award.png 
 -
   layout: paper
   paper-type: journal
@@ -31,5 +32,5 @@
   title: "Android malware detection through generative adversarial networks"
   authors: "Muhammad Amin, Babar Shah, <u>Aizaz Sharif</u>,  Tamleek Ali, Ki‐lL Kim, Sajid Anwar"
   doc-url: https://www.researchgate.net/publication/334479318_Android_malware_detection_through_generative_adversarial_networks
-  conf: ETT2019.png
+  conf: ETT2019.jpg
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3675"
