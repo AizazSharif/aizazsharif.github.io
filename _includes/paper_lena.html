@@ -3,7 +3,7 @@
     <img src="/img/paper/{{ include.paper.conf }}" alt="" style="max-width:60px; height:auto;"/>
   </a>
    {% if include.paper.awardlogo %}
-    <a href= "https://is-candar.org/candar19/award" class="pull-right" >
+    <a href="{{include.paper.awardlink}}" class="pull-right" >
     <img src="/img/paper/{{ include.paper.awardlogo }}" alt="" style="max-width:30px; height:auto;"/>
   </a>{% endif %}
   <a class="pull-left" {% if include.paper.doc-url %} href="{{ include.paper.url }}" {% endif %}>
@@ -14,6 +14,7 @@
     {% if include.paper.logo %}<img src="/img/papers/{{ include.paper.logo }}" alt=""/>{% endif %}
     <a href="{{include.paper.url}}">{{ include.paper.title }}</a><br/>
     {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}<br/>
+    For blog post: here.
     <!--{% if include.paper.award %}{{ include.paper.award }}.{% endif %} -->
  <br/>
         

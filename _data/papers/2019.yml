@@ -23,6 +23,7 @@
   url: "https://ieeexplore.ieee.org/abstract/document/8958412"
   award: CANDAR Outstanding Paper
   awardlogo: award.png 
+  awardlink: https://is-candar.org/candar19/award
 -
   layout: paper
   paper-type: journal
@@ -34,3 +35,5 @@
   doc-url: https://www.researchgate.net/publication/334479318_Android_malware_detection_through_generative_adversarial_networks
   conf: ETT2019.jpg
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3675"
+  awardlink: https://drive.google.com/file/d/1l4Ej7W_CwnFqfzmiMu0wmU5UuNOyXbGv/view?usp=sharing
+  awardlogo: award.png 
