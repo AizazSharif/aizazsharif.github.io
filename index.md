@@ -21,7 +21,7 @@ You can find my resume [here](AizazSharifResume2020.pdf).
 
 
 * 02/2020 Its Corona time !!. 
-* 02/2020 I started my [Ph.D.](https://arxiv.org/pdf/1910.13267.pdf) at the __Simula Research Laboratory__, Norway. 
+* 02/2020 I started my [Ph.D.](https://www.simula.no/people/aizaz) at the __Simula Research Laboratory__, Norway. 
 * 01/2020 __2__ papers published to IEEE Explore, one related to [Malware Analysis](https://ieeexplore.ieee.org/abstract/document/8958412/) and other in the field of [Medical Imaging](https://ieeexplore.ieee.org/abstract/document/8994408).
 * 11/2019 Awarded as __Best Outstanding Paper__ in the CANDAR'19 conference, Nagasaki, Japan.
 * 11/2019 Visiting Nagasaki, Japan to appear at [CANDAR'19](https://is-candar.org/) for presenting my Master's thesis: [Function Identification in Android Binaries with Deep Learning](https://ieeexplore.ieee.org/abstract/document/8958412/).
