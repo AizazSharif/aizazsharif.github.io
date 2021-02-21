@@ -9,12 +9,20 @@ redirect_from:
 ---
 
 
-I am Professor in the [School of Interactive Computing](https://www.ic.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/) and a Research Scientist at [Google AI](https://ai.google/). 
+I am Aizaz Sharif, a __Ph.D. student__ at Simula Research Laboratory and the University of Oslo. I'm very happy to be supervised by [Dusica Marijan]({{https://www.simula.no/people/dusica}}) and [Arnaud Gotlieb]({{https://www.simula.no/people/arnaud}}). My Ph.D. is focused on testing and validating A.I. based autonomous systems, more specifically on self-driving cars.
 
-I joined Georgia Tech in 2001 after obtaining a Ph.D. from [Carnegie Mellon’s School of Computer Science](https://www.scs.cmu.edu/), where I worked with [Hans Moravec](https://frc.ri.cmu.edu/~hpm/), [Chuck Thorpe](https://www.clarkson.edu/people/chuck-thorpe), [Sebastian Thrun](http://robots.stanford.edu/), and [Steve Seitz](https://homes.cs.washington.edu/~seitz/). Before that, I also obtained degrees from Case Western Reserve University and The Catholic University of Leuven, in Belgium.
+Previously, I was a __research associate__ at [NCCS]({{site.yandex_research_main}}) and worked closely with the Mobile Forensics by leading a software development team. 
 
-While on leave from Georgia Tech in 2016-2018, I served as Technical Project Lead at Facebook's "Building 8" hardware division within [Facebook Reality Labs](https://tech.fb.com/ar-vr/). Before that I was also Chief Scientist at [Skydio](skydio.com), a startup founded by MIT grads to create intuitive interfaces for micro-aerial vehicles. 
+You can find my resume [here](AizazSharifResume2020.pdf).
 
-My research is in the overlap between robotics and computer vision, and I am particularly interested in graphical model techniques to solve large-scale problems in mapping, 3D reconstruction, and increasingly model-predictive control. The GTSAM toolbox embodies many of the ideas his research group has worked on in the past few years and is available at [gtsam.org](https://gtsam.org) and [the GTSAM Github repo](https://github.com/borglab/gtsam/pulse/monthly).
+<span style="color:darkblue">News </span>
 
-Note: this site is still a bit sparse as I am moving from [my former iWeb-generated website](http://www.dellaert.com/) to Github Pages.
+
+* 02/2020 Its Corona time !!. 
+* 02/2020 I started my [Ph.D.](https://www.simula.no/people/aizaz) at the __Simula Research Laboratory__, Norway. 
+* 01/2020 __2__ papers published to IEEE Explore, one related to [Malware Analysis](https://ieeexplore.ieee.org/abstract/document/8958412/) and other in the field of [Medical Imaging](https://ieeexplore.ieee.org/abstract/document/8994408).
+* 11/2019 Awarded as __Best Outstanding Paper__ in the CANDAR'19 conference, Nagasaki, Japan.
+* 11/2019 Visiting Nagasaki, Japan to appear at [CANDAR'19](https://is-candar.org/) for presenting my Master's thesis: [Function Identification in Android Binaries with Deep Learning](https://ieeexplore.ieee.org/abstract/document/8958412/).
+* 10/2019 Graduated as M.Sc. Computer Science in the [FAST NUCES](https://www.nu.edu.pk/) under the supervision of [Muhammad Nauman](https://recluze.net/).
+* 09/2019 __1__ conference paper accepted to __CANDAR 2019__, Japan.
+* 07/2019 __1__ journal paper published to __Transactions on Emerging Telecommunications Technologies__.
