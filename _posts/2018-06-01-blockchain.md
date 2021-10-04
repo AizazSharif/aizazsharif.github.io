@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Implementing Your first Practical Blockchain
 date:   2018-06-01 
+permalink: /Blockchain/
+tags:
+  - Blockchain
+  - Hyperledger
+  - Computer Vision
 ---
 
-
-<br/>
-<span style="font-size:15px;">
 
 Everyone is into the cryptocurrencies and its investment side these days but very few tries to understand the decentralized ledger that works behind it. If you want to learn what is actually a <b>Blockchain</b> quickly and deploy it too then there is a ready path available for you.
 
@@ -37,5 +38,3 @@ This is a great way to learn the technical side of a distributed ledger system. 
 
 
 
-<br/><br/>
-Share: <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Implementing Your first Practical Blockchain! Blog post by @aizazsharif420 " data-url="https://aizazsharif.github.io/posts/blockchain.html" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
