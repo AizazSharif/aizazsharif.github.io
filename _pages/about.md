@@ -17,7 +17,7 @@ You can find my resume [here](AizazSharifResume2020.pdf).
 
 <span style="color:darkblue">News </span>
 
-
+* 10/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg is now also available at [arxiv](https://arxiv.org/abs/2110.07443). 
 * 09/2021 __1st__ conference paper of Ph.D. published at __ICSME 2021__, Luxembourg in the field of Software Testing and Test Case Prioritization.
 * 08/2021 Fully vaccinated !!
 * 12/2020 Reviewed 3 ISSRE Papers as a sub-reviewer. 
