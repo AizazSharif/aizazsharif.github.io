@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
+    gem 'faraday', '~> 2.7', '>= 2.7.11'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
