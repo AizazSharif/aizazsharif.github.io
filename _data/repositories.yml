@@ -1,11 +1,12 @@
 github_users:
-  - AizazSharif
-  - AizazSharif/T3AS
+  - torvalds
+  - alshedivat
 
 github_repos:
-  - T3AS/MAD-ARL
-  - T3AS/Benchmarking-QRS-2022
-  - T3AS/ReMAV
-  - T3AS/DeepOrder-ICSME21
-  - AizazSharif/Bron-Kerbosch-Algorithm
-  - AizazSharif/Handwriting-Generation-Using-Recurrent-Neural-Networks
+  - alshedivat/al-folio
+  - twbs/bootstrap
+  - jekyll/jekyll
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - jpswalsh/academicons
+  - mathjax/MathJax
