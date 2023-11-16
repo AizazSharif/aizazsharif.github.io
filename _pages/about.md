@@ -23,5 +23,5 @@ I am [Aizaz](https://www.simula.no/people/aizaz) Sharif, a Ph.D. researcher in t
 
 
 
-[Email](aizazsharif@gmail.com)   /  [CV](assets/pdf/Aizaz_CV.pdf)  /  [Twitter](https://twitter.com/AizazSharif420)  /  [Github](https://github.com/AizazSharif)  /  [Google Scholar](https://scholar.google.com/citations?user=luceUvgAAAAJ&hl)
+[Email](aizazsharif@gmail.com)   /  [CV](assets/pdf/Aizaz_CV_Nov_2023.pdf)  /  [Twitter](https://twitter.com/AizazSharif420)  /  [Github](https://github.com/AizazSharif)  /  [Google Scholar](https://scholar.google.com/citations?user=luceUvgAAAAJ&hl)
 
