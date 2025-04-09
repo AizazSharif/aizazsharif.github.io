@@ -42,56 +42,7 @@ layout: default
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
     <div id="table-of-contents">
-      <!-- GitHub Pages compatible TOC using JavaScript -->
-      <h2>Table of Contents</h2>
-      <div id="generated-toc"></div>
-      <script>
-        document.addEventListener('DOMContentLoaded', function() {
-          const contentElement = document.getElementById('markdown-content');
-          const tocElement = document.getElementById('generated-toc');
-          
-          if (contentElement && tocElement) {
-            const headings = contentElement.querySelectorAll('h1, h2, h3, h4, h5, h6');
-            if (headings.length > 0) {
-              const tocList = document.createElement('ul');
-              tocElement.appendChild(tocList);
-              
-              headings.forEach(function(heading, index) {
-                // Add ID to the heading if it doesn't have one
-                if (!heading.id) {
-                  heading.id = 'heading-' + index;
-                }
-                
-                const level = parseInt(heading.tagName.substring(1));
-                const listItem = document.createElement('li');
-                listItem.classList.add('toc-level-' + level);
-                
-                const link = document.createElement('a');
-                link.href = '#' + heading.id;
-                link.textContent = heading.textContent;
-                
-                listItem.appendChild(link);
-                tocList.appendChild(listItem);
-              });
-            }
-          }
-        });
-      </script>
-      <style>
-        #generated-toc ul {
-          list-style: none;
-          padding-left: 0;
-        }
-        #generated-toc li {
-          margin-bottom: 5px;
-        }
-        #generated-toc li.toc-level-1 { margin-left: 0; }
-        #generated-toc li.toc-level-2 { margin-left: 15px; }
-        #generated-toc li.toc-level-3 { margin-left: 30px; }
-        #generated-toc li.toc-level-4 { margin-left: 45px; }
-        #generated-toc li.toc-level-5 { margin-left: 60px; }
-        #generated-toc li.toc-level-6 { margin-left: 75px; }
-      </style>
+      {% toc %}
     </div>
     <hr>
     {% endif %}
@@ -101,16 +52,10 @@ layout: default
   </article>
 
   {%- if page.related_publications != null and page.related_publications.size > 0 -%}
+  {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
   <h2>References</h2>
   <div class="publications">
-    <!-- GitHub Pages doesn't support jekyll-scholar bibliography tag 
-    Original: {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %} -->
-    
-    <!-- Display a message or manually list publications -->
-    <p>Related publications are available on the full site.</p>
-    
-    <!-- If you need to display publications, you'll need to add them manually in the front matter
-         or switch to GitHub Actions for building your site -->
+    {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
   </div>
   {%- endif %}
 
