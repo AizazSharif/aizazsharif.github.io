@@ -37,26 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -72,29 +58,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -105,224 +69,114 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-tabs",
+      },{id: "post-ways-of-testing-autonomous-systems-and-their-current-status-with-limitations",
         
-          title: "a post with tabs",
+          title: "Ways of testing autonomous systems and their current status with limitations",
         
-        description: "this is what included tabs in a post could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.location.href = "/blog/2023/testing/";
           
         },
-      },{id: "post-a-post-with-typograms",
+      },{id: "post-recent-progress-and-thoughts-on-autonomous-cars-and-its-validation",
         
-          title: "a post with typograms",
+          title: "Recent progress and thoughts on autonomous cars and its validation",
         
-        description: "this is what included typograms code could look like",
+        description: "An updated literature review by the end of my PhD.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/typograms/";
+            window.location.href = "/blog/2023/autonomous-cars/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
+      },{id: "post-data-scientist-vs-data-engineering-vs-data-analysts",
         
-          title: "a post that can be cited",
+          title: "Data Scientist VS Data Engineering VS Data Analysts",
         
-        description: "this is what a post that can be cited looks like",
+        description: "The differences one should know.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/post-citation/";
+            window.location.href = "/blog/2023/data-science/";
           
         },
-      },{id: "post-a-post-with-pseudo-code",
+      },{id: "post-split-between-two-homes-in-two-countries",
         
-          title: "a post with pseudo code",
+          title: "Split between two homes in two countries",
         
-        description: "this is what included pseudo code could look like",
+        description: "Some thoughts on the struggles while living away from family",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/pseudocode/";
+            window.location.href = "/blog/2023/split-between-homes/";
           
         },
-      },{id: "post-a-post-with-code-diff",
+      },{id: "post-different-types-of-reinforcement-learning-algorithms",
         
-          title: "a post with code diff",
+          title: "Different types of Reinforcement Learning algorithms",
         
-        description: "this is how you can display code diffs",
+        description: "An overview of RL algorithms in 2023",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/code-diff/";
+            window.location.href = "/blog/2023/RL/";
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
+      },{id: "post-basic-productivity-workflow-as-a-phd-researcher",
         
-          title: "a post with advanced image components",
+          title: "Basic productivity workflow (as a PhD researcher)",
         
-        description: "this is what advanced image components could look like",
+        description: "Tips and thoughts on productivity cycle.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/advanced-images/";
+            window.location.href = "/blog/2023/notion/";
           
         },
-      },{id: "post-a-post-with-vega-lite",
+      },{id: "post-how-to-use-social-media-by-also-keeping-sanity-in-mind",
         
-          title: "a post with vega lite",
+          title: "How to use Social Media by also keeping sanity in mind",
         
-        description: "this is what included vega lite code could look like",
+        description: "Social media tips and tricks",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/vega-lite/";
+            window.location.href = "/blog/2023/social-media/";
           
         },
-      },{id: "post-a-post-with-geojson",
+      },{id: "post-things-i-experienced-during-the-first-half-of-my-ph-d-in-oslo",
         
-          title: "a post with geojson",
+          title: "Things I experienced during the first half of my Ph.D. in Oslo",
         
-        description: "this is what included geojson code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/geojson-map/";
+            window.location.href = "/blog/2023/PhD-first-half/";
           
         },
-      },{id: "post-a-post-with-echarts",
+      },{id: "post-what-is-an-mlops",
         
-          title: "a post with echarts",
+          title: "What is an MLOps?",
         
-        description: "this is what included echarts code could look like",
+        description: "and how important it is in the ML development lifecycle?",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/echarts/";
+            window.location.href = "/blog/2023/MLOps/";
           
         },
-      },{id: "post-a-post-with-chart-js",
+      },{id: "post-what-is-an-ml-engineer",
         
-          title: "a post with chart.js",
+          title: "What is an ML Engineer?",
         
-        description: "this is what included chart.js code could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-tikzjax",
-        
-          title: "a post with TikZJax",
-        
-        description: "this is what included TikZ code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tikzjax/";
-          
-        },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-audios",
-        
-          title: "a post with audios",
-        
-        description: "this is what included audios could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/audios/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
-          
-        },
-      },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-        
-          title: "displaying beautiful tables with Bootstrap Tables",
-        
-        description: "an example of how to use Bootstrap Tables",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/tables/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/table-of-contents/";
-          
-        },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
+            window.location.href = "/blog/2023/ML-engineer/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -336,103 +190,70 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-a-post-with-redirect",
+      },{id: "post-errors-faced-while-working-on-tensorflow-ray-and-carla",
         
-          title: "a post with redirect",
+          title: "Errors faced while working on Tensorflow, Ray and Carla",
         
-        description: "you can also redirect to assets like pdf",
+        description: "Experience of a stack I used for validating autonomous cars.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/blog/2022/Tensorflow-ray/";
           
         },
-      },{id: "post-a-post-with-diagrams",
+      },{id: "post-differences-in-academia-vs-industry-w-r-t-autonomous-driving",
         
-          title: "a post with diagrams",
+          title: "Differences in academia VS industry w.r.t autonomous driving",
         
-        description: "an example of a blog post with diagrams",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/diagrams/";
+            window.location.href = "/blog/2021/autonomous-driving-industry-academia/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-my-experience-with-data-analyst-nanodegree",
         
-          title: "a distill-style blog post",
+          title: "My Experience with Data Analyst Nanodegree",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/distill/";
+            window.location.href = "/blog/2017/My-Experience-with-Data-Analyst-Nanodegree/";
           
         },
-      },{id: "post-a-post-with-twitter",
+      },{id: "post-deeptraffic-competition",
         
-          title: "a post with twitter",
+          title: "DeepTraffic-Competition",
         
-        description: "an example of a blog post with twitter",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/twitter/";
+            window.location.href = "/blog/2017/deeptraffic/";
           
         },
-      },{id: "post-a-post-with-disqus-comments",
+      },{id: "post-why-rainbow-six-siege-is-the-best-multiplayer-game-right-now",
         
-          title: "a post with disqus comments",
+          title: "Why Rainbow Six Siege is the Best Multiplayer game right now?",
         
-        description: "an example of a blog post with disqus comments",
+        description: "When it comes to Esports, games like Dota and Counter Strike have always been dominated.  But 2016 brought a change in competition by introducing us to 2 major Esports games i-e. Overwatch and Rainbow Six Siege. And these two games dominated the GAME AWARDS by Overwatch winning best multiplayer and R6 siege being the runner up.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/disqus-comments/";
+            window.location.href = "/blog/2016/Why-Rainbow-Six-Siege-is-the-Best-Multiplayer-game-right-now_/";
           
         },
-      },{id: "post-a-post-with-math",
+      },{id: "post-smartphone-based-human-activity-surveillance-system",
         
-          title: "a post with math",
+          title: "Smartphone Based Human Activity Surveillance System",
         
-        description: "an example of a blog post with some math",
+        description: "An Android Application for my project on &#39;Smartphone Based Human Activity Surveillance System&#39;.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/code/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2016/FYP/";
           
         },
       },{id: "books-the-godfather",
@@ -440,75 +261,49 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-blessed-with-a-baby-boy",
+          title: 'Blessed with a baby boy!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-defended-my-phd-thesis",
+          title: 'Defended my PhD thesis',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-moved-to-a-new-website-theme-now-completing-unfinished-blogs-both-technical-and-memoirs",
+          title: 'Moved to a new website theme. Now completing unfinished blogs (both technical and...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%61%69%7A%61%7A%73%68%61%72%69%66@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-facebook',
+        title: 'Facebook',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://facebook.com/AizazSharif", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/AizazSharif", "_blank");
+        },
+      },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/aizaz_sharif", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/aizazsharif", "_blank");
         },
       },{
         id: 'social-rss',
@@ -522,14 +317,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=luceUvgAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://twitter.com/AizazSharif420", "_blank");
         },
       },{
       id: 'light-theme',
